@@ -1,0 +1,12 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:rgb(11, 97, 11);
+}
+h1{
+    text-transform: uppercase;
+}
